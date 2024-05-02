@@ -1,16 +1,16 @@
 ![MasterHead](https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg)
 <h1 align="center">Hi 👋, I'm Machine learning Engineer</h1>
-<h3 align="center">A passionate machine learning Engineer from India</h3>
+<h3 align="center">A passionate Machine learning Engineer from India</h3>
 <img src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif" alt="Coding" width="400" align="right">
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **GenAi**
 
 - 💬 Ask me about **Python and machine learning**
 
 - 📫 How to reach me **rawatpankaj9919@gmail.com**
 
-- 📄 Know about my experiences [1 year 6 months](1 year 6 months)
+- 📄 Know about my experiences [2+](2+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
